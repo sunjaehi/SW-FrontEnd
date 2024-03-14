@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 10 10 20px;
+}
+.a {
+    display: flex;
+    flex-direction: row;
+}
+img {
+    width: 200px;
+    margin: 0 20px 10px 0;
+}
